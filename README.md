@@ -1,10 +1,10 @@
 # Simple In Memory Database
-## Functions
+## Features
 * Add/remove/update records
 * Add record in JSON format
 * Getting records by account/name/value in O(log(n)) complexity
 * Unit tests
-## Dependencies
+## Stack
 * Lombok
 * JUnit 5
 * Jackson
